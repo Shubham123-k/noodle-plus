@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "providers": {
+      "emailPassword": true,
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "Noodle Plus",
+        "supportEmail": "shubhamkbind69@gmail.com"
+      }
+    }
+  }
+}
